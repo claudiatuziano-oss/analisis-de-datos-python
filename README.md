@@ -22,3 +22,12 @@ Limpieza y preparación de la información.
 Análisis exploratorio de datos.
 Visualización de resultados.
 Obtención de conclusiones a partir de los datos.
+
+## Visualizaciones
+
+El proyecto incluye visualizaciones realizadas para facilitar la interpretación de los datos y comunicar los principales hallazgos del análisis.
+
+Se desarrolló una visualización interactiva utilizando Flourish, donde se presentan resultados del análisis exploratorio y la relación entre las variables estudiadas.
+
+Visualización interactiva:
+https://public.flourish.studio/visualisation/29658246/ 
